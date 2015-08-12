@@ -1,2 +1,2 @@
 # clojuretest
-clojure test
+Simply me playing with Clojure. Nothing to see here.
